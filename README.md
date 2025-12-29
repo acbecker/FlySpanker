@@ -19,10 +19,7 @@ FlySpanker is an iOS app for comparing two photos by rapidly alternating ("blink
 
 ## Support
 
-For questions, bug reports, or feature requests:
-
-- **Email**: becker@astro.washington.edu
-- **Issues**: Open an issue on this repository
+For questions, bug reports, or feature requests, please [open an issue](https://github.com/acbecker/FlySpanker/issues) on this repository.
 
 ## Privacy
 
@@ -35,4 +32,4 @@ FlySpanker processes all images locally on your device. No photos or data are up
 
 ## License
 
-Copyright (c) 2024 Andrew Becker. All rights reserved.
+Copyright (c) 2025 Andrew Becker. All rights reserved.
